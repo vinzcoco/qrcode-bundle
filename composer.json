@@ -1,8 +1,8 @@
 {
-    "name": "endroid/qrcode-bundle",
+    "name": "vinzcoco/qrcode-bundle",
     "description": "Endroid Qr Code Bundle for Symfony",
     "keywords": ["endroid", "qrcode", "qr", "code", "symfony", "bundle"],
-    "homepage": "https://github.com/endroid/EndroidQrCodeBundle",
+    "homepage": "https://github.com/vinzcoco/qrcode-bundle",
     "type": "library",
     "license": "MIT",
     "authors": [
